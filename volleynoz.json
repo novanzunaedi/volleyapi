@@ -2,56 +2,56 @@
 {
         "name": "Naruto",
         "image": "https://raw.githubusercontent.com/novanzunaedi/volleyapi/master/Naruto.jpg",
-        "bayaran": "$79.2 billion",
+        "bayaran": "79.2 Juta Rupiah",
         "InYear": 2015,
         "jabatan": "Hokage"
     },
     {
         "name": "Pein",
         "image": "https://raw.githubusercontent.com/novanzunaedi/volleyapi/master/Pein.jpg",
-        "bayaran": "$77.1 billion",
+        "bayaran": "77.1 Juta Rupiah",
         "InYear": 2015,
         "jabatan": "Akatsuki"
     },
     {
         "name": "Red Jiraya",
         "image": "https://raw.githubusercontent.com/novanzunaedi/volleyapi/master/RedJiraya.jpg",
-        "bayaran": "$72.7 billion",
+        "bayaran": "72.7 Juta Rupiah",
         "InYear": 2015,
         "jabatan": "Guru Naruto"
     },
     {
         "name": "Tenten",
         "image": "https://raw.githubusercontent.com/novanzunaedi/volleyapi/master/Tenten.jpg",
-        "bayaran": "$64.5 billion",
+        "bayaran": "64.5 Juta Rupiah",
         "InYear": 2015,
         "jabatan": "Ninja"
     },
     {
        "name": "Sakon",
        "image": "https://raw.githubusercontent.com/novanzunaedi/volleyapi/master/g.jpg",
-       "bayaran": "$54.3 billion",
+       "bayaran": "54.3 Juta Rupiah",
        "InYear": 2015,
        "jabatan": "Anak Buah Orochimaru"
     },
     {
         "name": "Sai",
         "image": "https://raw.githubusercontent.com/novanzunaedi/volleyapi/master/sai.jpg",
-        "bayaran": "$42.9 billion",
+        "bayaran": "42.9 Juta Rupiah",
         "InYear": 2015,
         "jabatan": "Teman Hokage"
     },
     {
         "name": "Sasuke",
         "image": "https://raw.githubusercontent.com/novanzunaedi/volleyapi/master/sasukepurple.jpg",
-        "bayaran": "$42.9 billion",
+        "bayaran": "42.9 Juta Rupiah",
         "InYear": 2015,
         "jabatan": "Teman"
     },
     {
         "name": "Unnamed",
         "image": "https://raw.githubusercontent.com/novanzunaedi/volleyapi/master/test.jpg",
-        "bayaran": "$41.7 billion ",
+        "bayaran": "41.7 Juta Rupiah ",
         "InYear": 2015,
         "jabatan": "Tidak Tahu"
     }
